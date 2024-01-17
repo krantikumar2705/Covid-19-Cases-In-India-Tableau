@@ -17,3 +17,6 @@ COVID-19 cases at daily level is present in covid_19_india.csv file
 Statewise testing details in StatewiseTestingDetails.csv file
 
 Travel history dataset by @dheerajmpai - https://www.kaggle.com/dheerajmpai/covidindiatravelhistory
+
+
+See Covid 19 India Cases DashBoard - https://public.tableau.com/views/Covid19_17054337568530/Dashboard1?:language=en-US&:display_count=n&:origin=viz_share_link
